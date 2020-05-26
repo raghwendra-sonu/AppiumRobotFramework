@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="AppiumLibrary" path="C:/Users/SONU/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/AppiumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="ReusableLibrary" path="Notify/CustomLibraries/ReusableLibrary.py" dynamic="false"/>
+    <pythonpath>
+        <path location="C:\Users\SONU\AppData\Local\Programs\Python\Python38-32"/>
+    </pythonpath>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>

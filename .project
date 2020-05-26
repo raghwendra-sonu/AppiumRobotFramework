@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Notify</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.robotframework.ide.eclipse.main.plugin.robotLibrariesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.robotframework.ide.eclipse.main.plugin.robotNature</nature>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>libspecs/AppiumLibrary.py</name>
+			<type>1</type>
+			<location>C:/Users/SONU/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/AppiumLibrary/keywords/_applicationmanagement.py</location>
+		</link>
+		<link>
+			<name>libspecs/Screenshot.py</name>
+			<type>1</type>
+			<location>C:/Users/SONU/AppData/Local/Programs/Python/Python38-32/lib/site-packages/robot/libraries/Screenshot.py</location>
+		</link>
+	</linkedResources>
+</projectDescription>

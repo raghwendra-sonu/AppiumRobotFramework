@@ -1,0 +1,3 @@
+Add_Contact="xpath=//android.widget.LinearLayout[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout[1]/android.widget.Button[1]"
+My_Name="xpath=//android.widget.LinearLayout[1]/android.widget.FrameLayout[2]/android.widget.ScrollView[1]/android.widget.TableLayout[1]/android.widget.TableRow[4]/android.widget.EditText[1]"
+My_Email="xpath=//android.widget.LinearLayout[1]/android.widget.FrameLayout[2]/android.widget.ScrollView[1]/android.widget.TableLayout[1]/android.widget.TableRow[8]/android.widget.EditText[1]"

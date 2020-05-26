@@ -1,0 +1,4 @@
+/target/
+/libspecs/
+/.settings/
+!**/__pycache__/
